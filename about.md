@@ -8,6 +8,7 @@ Hackshops apply lean principles to hackathons. By using the Hackshop format, hac
 - how to document a brief, living, and lean business model
 - how to continually test assumptions with rapid experimentation to deliver an MVP
 
+
 Hackshops are still hackathons. The difference is the addition of the Hackshop framework for running in a lean way, to be as efficient as possible, focused on continuously experimenting and learning throughout the development process. 
 ### The Traditional Hackathon
 Hackathons traditionally center around building solutions, the most time-consuming and expensive part of the development lifecycle. 
@@ -24,7 +25,7 @@ We've learned that when starting with a problem or an idea, the more we can be w
 The Hackshop format leaves the traditional hackathon's solution-centric format behind. Hackshops focus on customers, problems, and promises first, and advocate moving quickly using succinct timeboxes to get from idea to MVP as quickly as possible. Throughout the event, teams work to prove their own assumptions wrong on their path to a viable solution.
 
 ## Hackshops vs. Hackathons
-### Top 5 Unique Elements
+### 5 Unique Elements
 - problem-centric approach (no solutions for the first 1/4 of the event) 
 - use of lean business canvas as central to process
 - customer validation before building 
