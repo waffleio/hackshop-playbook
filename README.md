@@ -10,6 +10,7 @@ See [HackshopNC](http://waffleio.github.io/hackshopNC/) for an example from our 
 
 
 --- Sample content for forks ---
+
 <img width="327" alt="screen shot 2015-09-09 at 5 03 26 pm" src="https://cloud.githubusercontent.com/assets/100216/9774168/b86355c8-5714-11e5-993e-395f1fb8c43c.png">
 
 # Event Information
