@@ -2,11 +2,19 @@
 
 This is a playbook for running a hackshop -- part hackathon, part lean workshop. We're developing this as part of our partnership with Code For America, for Code for America brigades who want to run 1-2 day events for the purpose of recruiting new brigade members, for hackathons, or for kickstarting new projects within their brigades. 
 
-As a first step to running a Hackshop event, we recommend forking this repository, editing the README to be specific to your event, and going to Settings-> GitHub Automatic Page Generator and loading your repository's README.md to stand up a quick website for your event. 
+### Get Started 
 
+As a first step to running a Hackshop event, we recommend forking this repository, editing the README to be specific to your event. Then go to Settings-> GitHub Automatic Page Generator and loading your repository's README.md to stand up a quick website for your event. 
+
+### Examples 
 See [HackshopNC](http://waffleio.github.io/hackshopNC/) for an example from our pilot event. 
 
+### This is a work in progress
 *Note that this playbook is in beta, and is a work in progress. As we continue to run hackshops and spread the word to Code for America brigades, we'll be iterating and expanding on the content.*
+
+### Table of Contents
+- [About Hackshops](/about.md) 
+- [Recommended Tools](/tools.md) 
 
 --
 
