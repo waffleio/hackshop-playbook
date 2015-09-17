@@ -5,7 +5,10 @@ We’ve put together the right set of tools to help teams be productive in the s
 GitHub has paved the way for [open collaboration](http://ben.balter.com/2014/01/27/open-collaboration/), making it the perfect place to start
 
 ## Use [Waffle.io](http://waffle.io) for Issue Management 
-Before you have any code in need of a repository, you’re going to have to-do’s. GItHub’s native issue tracker is a great place to start. Waffle lives on top of GitHub and utilizes the same source of record, while also providing a free lightweight project management layer for easier organization and visualization of GitHub Issues at the team level. 
+Before you have any code in need of a repository, you’re going to have to-do’s. GitHub’s native issue tracker is a great place to start. Waffle lives on top of GitHub and utilizes the same source of record, while also providing a free lightweight project management layer for easier organization and visualization of GitHub Issues at the team level. 
+
+## Use Hackshop.waffle.io 
+The easiest way to get teams set up with the work they need to do for each sprint is by using hackshop.waffle.io. THe Waffle Hackshop app will provide teams with a prepopulated set of Issues that can be moved from Ready to In Progress to Done on their Waffle boards as they work through each sprint.
 
 ## Use a Chat Tool, ([Gitter.im](http://gitter.im)) for Remote Support
 Depending on your event, you may or may not be able to get experts from the field on site to help your participants. A simple way to engage specialists in the field with your event attendees is to provide support from remote specialists during specific time intervals using a chat tool like Gitter or Slack. 
