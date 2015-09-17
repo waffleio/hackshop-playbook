@@ -15,6 +15,7 @@ See [HackshopNC](http://waffleio.github.io/hackshopNC/) for an example from our 
 ### Table of Contents
 - [About Hackshops](/about.md) 
 - [Recommended Tools](/tools.md) 
+- [Process](/process.md)
 
 --
 
