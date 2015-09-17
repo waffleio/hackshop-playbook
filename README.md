@@ -6,7 +6,7 @@ As a first step to running a Hackshop event, we recommend forking this repositor
 
 See [HackshopNC](http://waffleio.github.io/hackshopNC/) for an example from our pilot event. 
 
-**Note that this playbook is in beta, and is a work in progress. As we continue to run hackshops and spread the word to Code for America brigades, we'll be iterating and expanding on the content.**
+*Note that this playbook is in beta, and is a work in progress. As we continue to run hackshops and spread the word to Code for America brigades, we'll be iterating and expanding on the content.*
 
 
 --- Sample content for forks ---
