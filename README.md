@@ -1,3 +1,4 @@
+![Hackshop](https://cloud.githubusercontent.com/assets/100216/9774168/b86355c8-5714-11e5-993e-395f1fb8c43c.png)
 ### About this repo
 
 This is a playbook for running a hackshop -- part hackathon, part lean workshop. We're developing this as part of our partnership with Code For America, for Code for America brigades who want to run 1-2 day events for the purpose of recruiting new brigade members, for hackathons, or for kickstarting new projects within their brigades. 
