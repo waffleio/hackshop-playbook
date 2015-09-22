@@ -15,12 +15,12 @@ Hackathons traditionally center around building solutions, the most time-consumi
 
 Individuals and teams show up to the event already knowing what they plan to build. Sometimes, problem statements are pre-defined, which is a step in the right direction -- but what if you're not passionate about the problem to be solved? Or what if you already have an amazing solution in mind?
 
-Unfortunately, your amazing solution is probably not actually as amazing as you think. You may have even skipped identifying what the underlying problem is altogether. You could spend 24 hours coding a chat app for retired  only to find out that 10% of them use smart phones and your solution 
+Unfortunately, your amazing solution is probably not actually as amazing as you think. You may have even skipped identifying what the underlying problem is altogether. You could spend 24 hours coding a chat app for retired seniors only to find out that 10% of them use smart phones.
 
 ### The Hackshop Way 
-Hackshops focus on problems and customers first. What problem are you solving and for who are you solving it? Can you make a compelling promise to that customer that you can deliver [a] solution that meets their needs? Before we even talk about solutions, we focus on the customer, problem, and promise, first. 
+Hackshops focus on problems and customers first. What problem are you solving and for who are you solving it? Can you make a compelling promise to that customer that you can deliver a solution that meets their needs? Before we even talk about solutions, we focus on the customer, problem, and promise, first. 
 
-We've learned that when starting with a problem or an idea, the more we can be wrong, faster, the more we can get to a solution worth building. This approach sounds backwards, because your solution is so obviously brilliant, right? Unfortunately, probably not. Solutions that go from idea to first ship without any attempt to validate or invalidate the underlying problem with a customer segment and if your solution fits their needs are rarely successful. 
+We've learned that when starting with a problem or an idea, the more we can be wrong, faster, the more we can get to a solution worth building. This approach sounds backwards, because your solution is so obviously brilliant, right? Unfortunately, probably not. Solutions that go from idea to launch without any attempt to validate or invalidate the underlying problem with a customer segment and if your solution fits their needs are rarely successful. 
 
 The Hackshop format leaves the traditional hackathon's solution-centric format behind. Hackshops focus on customers, problems, and promises first, and advocate moving quickly using succinct timeboxes to get from idea to MVP as quickly as possible. Throughout the event, teams work to prove their own assumptions wrong on their path to a viable solution.
 
