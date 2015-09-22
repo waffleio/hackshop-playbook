@@ -35,8 +35,8 @@ The Hackshop format leaves the traditional hackathon's solution-centric format b
 ### Recommended (Lightweight) Tooling
 - An electronic or paper version of a [lean business canvas](resources/leancanvas.pdf)
 - GitHub, for collaboration on code and issues
-- hackshop.waffle.io, a pre-built project template for managing issues in GitHub using a lean workflow
-- Slack, for remote and ongoing communications (optional) 
+- [hackshop.waffle.io](https://hackshop.waffle.io), a pre-built project template for managing issues in GitHub using a lean workflow
+- [Slack](http://slack.com), for remote and ongoing communications (optional) 
 
 ### Hackshops specifically limit risk around: 
 - solving problems that aren't painful or impactful
