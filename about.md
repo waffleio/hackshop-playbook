@@ -27,16 +27,16 @@ The Hackshop format leaves the traditional hackathon's solution-centric format b
 ## Hackshops vs. Hackathons
 ### 5 Unique Elements
 - problem-centric approach (no solutions for the first 1/4 of the event) 
-- use of lean business canvas as central to process
+- use of a [lean business canvas](resources/leancanvas.pdf) as central to process
 - customer validation before building 
 - rapid prototyping and experimentation
 - use of continuous feedback loop (frame/build/measure/learn) 
 
 ### Recommended (Lightweight) Tooling
-- An electronic or paper version of a lean business canvas 
-- GitHub (for issue storing and code collaboration) 
-- hackshop.waffle.io (a pre-built project template for managing issues in GitHub using a lean workflow.) 
-- Slack for remote and ongoing communications (optional) 
+- An electronic or paper version of a [lean business canvas](resources/leancanvas.pdf)
+- GitHub, for collaboration on code and issues
+- hackshop.waffle.io, a pre-built project template for managing issues in GitHub using a lean workflow
+- Slack, for remote and ongoing communications (optional) 
 
 ### Hackshops specifically limit risk around: 
 - solving problems that aren't painful or impactful
