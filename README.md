@@ -24,6 +24,14 @@ See [HackshopNC](http://waffleio.github.io/hackshopNC/) for an example from our 
 --- Sample content for forks ---
 
 <img width="327" alt="screen shot 2015-09-09 at 5 03 26 pm" src="https://cloud.githubusercontent.com/assets/100216/9774168/b86355c8-5714-11e5-993e-395f1fb8c43c.png">
+# Getting Started
+- [Create Free Account at Github.com](http://github.com)
+- [Create Free Account at Waffle.io](http://waffle.io)
+- [Kick off Your Project at Hackshop.waffle.io](http://hackshop.waffle.io)
+- Join our chatroom
+- Lean Canvas (Provided to teams)
+- Use [Hackpad](http://hackpad.com) to Document Your Team and Problem
+
 
 # Event Information
 
