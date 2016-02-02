@@ -64,7 +64,7 @@ Sound interesting? Head over to Eventbrite to save your spot!
 - 11:00 am - Team Sprint 3 - Adjust Canvas (30 minutes) 
 - 11:30 pm - Hackshop Lesson: Running Lightweight Experiments
 - 12:00 pm - Lunch 
-- 12:00 pm - Team Sprint 4 begins (experiment design and definition) (1 hr)
+- 12:00 pm - Team Sprint 4 begins (1 hr)
 - 1:00 pm - Hackshop intervention: Review team experiments 
 - 1:30 pm - Team Sprint 5 (build) (2 hrs) 
 - 3:00 pm - Hackshop lesson: How to build your pitch 
