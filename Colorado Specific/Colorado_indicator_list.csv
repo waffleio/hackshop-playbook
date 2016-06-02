@@ -1,0 +1,978 @@
+,id,title
+0,64,2009-2010 Colorado School CSAP Summary
+1,65,2010-2011 Colorado School CSAP Summary
+2,66,2010-2011 Colorado School CSAP Summary by Race or Ethnicity
+3,70,2010 Colorado School Districts
+4,71,2011 Colorado Schools
+5,72,2010-2011 Colorado State Total CSAP Summary by Free or Reduced Lunch Eligibility Status
+6,73,2010-2011 Colorado State Total CSAP Summary by Gender
+7,74,2010-2011 Colorado State Total CSAP Summary by Race or Ethnicity
+8,75,2010-2011 Colorado State Total CSAP Summary
+9,77,2010-2011 Colorado School District CSAP Summary by Free or Reduced Lunch Eligibility Status
+10,78,2010-2011 Colorado School District CSAP Summary by Gender
+11,79,2010-2011 Colorado School District CSAP Summary by Race or Ethnicity
+12,80,2009-2010 Colorado School District CSAP Summary
+13,81,2010-2011 Colorado School CSAP Summary by Free or Reduced Lunch Eligibility Status
+14,82,2010-2011 Colorado School CSAP Summary by Gender
+15,85,2010-2011 Colorado School District CSAP Summary
+16,86,2010 Census Block Household Size by Household Type by Presence of Own Children
+17,87,2010 Census Block Housing Occupancy Status and Tenure
+18,88,2010 Census Block Population by Race
+19,89,2010 Census Block Group Household Type
+20,90,2010 Census Block Group Population by Sex by Age for the Population under 20 years
+21,91,2010 Census Block Households by Presence of People Under 18 Years by Household Type by Age of People Under 18 Years
+22,92,2010 Census Block Population by Sex by Age for the Population under 20 Years
+23,93,2010 Census Block Group Household Size by Household Type by Presence of Own Children
+24,94,2010 Census Block Group Housing Occupancy Status and Tenure
+25,95,2010 Census Block Group Median Age by Sex
+26,96,2010 Census Block Household Type
+27,97,2010 Census Block Median Age by Sex
+28,98,2010 Census Block Group Households by Presence of People Under 18 Years by Household Type by Age of People Under 18 Years
+29,99,2010 Census Block Group Population By Sex and Age
+30,101,2010 Census County Household Size by Household Type by Presence of Own Children
+31,102,2010 Census County Housing Occupancy Status and Tenure
+32,103,2010 Census County Population Median Age by Sex
+33,104,2010 Census County Tenure by Presence and Age of Own Children
+34,105,2010 Census Tract Household Size by Household Type by Presence of Own Children
+35,106,2010 Census Tract Housing Occupancy Status and Tenure
+36,107,2010 Census Tract Population Median Age by Sex
+37,108,2008 Tax Returns by Zipcode
+38,109,2010 Census County Households by Presence of People Under 18 Years by Household Type by Age of People Under 18 Years
+39,110,2010 Census County Population By Sex and Age
+40,111,2010 Census County Population by Race
+41,112,Children's Corridor Parcel Landuse 2010
+42,113,2010 Census Tract Households by Presence of People Under 18 Years by Household Type by Age of People Under 18 Years
+43,114,2010 Census Tract Population By Sex and Age
+44,115,2010 Census Tract Population by Race
+45,116,2010 Business Patterns by Zipcode
+46,117,2010 Census County Population by Sex by Age for the Population under 20 Years
+47,118,2010 Census County Household Type
+48,119,2008 Tax Returns by County
+49,121,2010 Census Tract Household Type
+50,122,2010 Census Tract Population by Sex by Age for the Population under 20 Years
+51,123,2010 Census Tract Tenure by Presence and Age of Own Children
+52,152,2010 Census Block Population By Sex and Age
+53,173,2008 Tax Returns State Total
+54,185,Children's Corridor Building Inventory 2010
+55,193,2008 Tax Returns by City
+56,213,2006-2010 ACS 5-Year Colorado State's Unweighted Sample Count of Population and Housing Units
+57,214,2006-2010 ACS 5-Year Colorado Unweighted Sample Count of Population and Housing Units by County
+58,215,2006-2010 ACS 5-Year Colorado Unweighted Sample Count of Population and Housing Units by Census Tract
+59,216,2006-2010 ACS 5-Year Colorado Unweighted Sample Count of Population and Housing Units by Census Block Group
+60,217,2006-2010 ACS 5-Year Colorado State's Population by Sex and Age
+61,219,2006-2010 ACS 5-Year Colorado Population by Sex and Age by Census Tract
+62,220,2006-2010 ACS 5-Year Colorado Population by Sex and Age by Census Block Group
+63,995,2011 Colorado State Total Birth Counts
+64,996,2011 Colorado State Total Birth Percents
+65,997,2011 Colorado State Total Death Counts
+66,998,2011 Colorado State Total Death Percents
+67,999,2011 Colorado Birth Counts by Census Tract
+68,1000,2011 Colorado Birth Percents by Census Tract
+69,1001,2011 Colorado Death Counts by Census Tract
+70,1002,2011 Colorado Death Percents by Census Tract
+71,1003,2006-2010 ACS 5-Year Colorado Population by Race by County
+72,1004,2006-2010 ACS 5-Year Colorado Population by Sex and Race by County
+73,1005,2010 Census Block Group by Race
+74,1006,"2006-2010 ACS 5-Year Colorado Population by Sex, Race, and Age by County"
+75,1007,2006-2010 ACS 5-Year Colorado State's Population by Race
+76,1008,2006-2010 ACS 5-Year Colorado State's Population by Sex and Race
+77,1009,"2006-2010 ACS 5-Year Colorado State's Population by Sex, Race, and Age"
+78,1010,2006-2010 ACS 5-Year Colorado Population by Race by Census Tract
+79,1011,2006-2010 ACS 5-Year Colorado Population by Sex and Race by Census Tract
+80,1012,"2006-2010 ACS 5-Year Colorado Population by Sex, Race, and Age by Census Tract"
+81,1016,Physically Active Rate by Race by County in Metro Denver Region in 2009
+82,1017,Food Desserts in Metro Denver region 2009
+83,1018,Adult Obesity Rate by Race by County in Metro Denver Region in 2009
+84,1019,Adult Asthma Rate by Race by County in Metro Denver Region in 2009
+85,1020,Adult Obesity Rate by County in Metro Denver Region in 2009
+86,1021,Adult Asthma Rate by County in Metro Denver Region in 2009
+87,1022,Physically Active Rate by County in Metro Denver Region in 2009
+88,1023,Adult Obesity Rate by Income by County in Metro Denver Region in 2009
+89,1024,Adult Asthma Rate by Income by County in Metro Denver Region in 2009
+90,1025,Physically Active Rate by Income by County in Metro Denver Region in 2009
+91,1028,Percent of the Population Consuming Five or More Servings of Fruits and Vegetables per Day by Income by County in Metro Denver Region in 2009
+92,1029,Percent of the Population Consuming Five or More Servings of Fruits and Vegetables per Day by Race by County in Metro Denver Region in 2009
+93,1030,Percent of the Population Consuming Five or More Servings of Fruits and Vegetables per Day by County in Metro Denver Region in 2009
+94,1031,Percent of the Population with Health Care Coverage by County in Metro Denver Region in 2009
+95,1032,Infant Mortality Rate by County in Metro Denver Region in 2009
+96,1033,The Denver Regional Equity Atlas Various Health Indicators (Raw Data)
+97,1034,Percent of the Population with Health Care Coverage by Race by County in Metro Denver Region in 2009
+98,1035,Percent of the Population with Health Care Coverage by Income by County in Metro Denver Region in 2009
+99,1079,Colorado Adult Obese Percent 2008-2010 by County
+100,1102,2006-2010 ACS 5-Year Colorado Population by Sex and Age by County
+101,1113,2006-2010 ACS 5-Year Colorado Median Age by Census Tract
+102,1114,2006-2010 ACS 5-Year Colorado Median Age by Census Block Group
+103,1115,2006-2010 ACS 5-Year Colorado State's Median Age
+104,1116,2006-2010 ACS 5-Year Colorado Median Age by County
+105,1117,2006-2010 ACS 5-Year Colorado State's Median Age by Race
+106,1118,2006-2010 ACS 5-Year Colorado Median Age by Race by County
+107,1119,2006-2010 ACS 5-Year Colorado Median Age by Race by Census Tract
+108,1120,2006-2010 ACS 5-Year Colorado Median Age by Race by Census Block Group
+109,1121,2006-2010 ACS 5-Year Colorado State's Median Age by Sex
+110,1122,2006-2010 ACS 5-Year Colorado Median Age by Sex by County
+111,1123,2006-2010 ACS 5-Year Colorado Median Age by Sex by Census Tract
+112,1124,2006-2010 ACS 5-Year Colorado Median Age by Sex by Census Block Group
+113,1125,2006-2010 ACS 5-Year Colorado State's Median Age by Sex and Race
+114,1126,2006-2010 ACS 5-Year Colorado Median Age by Sex and Race by County
+115,1127,2006-2010 ACS 5-Year Colorado Median Age by Sex and Race by Census Tract
+116,1128,2006-2010 ACS 5-Year Colorado Median Age by Sex and Race by Census Block Group
+117,1129,2006-2010 ACS 5-Year Colorado State's Population by Hispanic Origin
+118,1130,2006-2010 ACS 5-Year Colorado Population by Hispanic Origin by County
+119,1131,2006-2010 ACS 5-Year Colorado Population by Hispanic Origin by Census Tract
+120,1132,2006-2010 ACS 5-Year Colorado Population by Hispanic Origin by Census Block Group
+121,1133,2006-2010 ACS 5-Year Colorado State's Population by Hispanic Origin and Race
+122,1134,2006-2010 ACS 5-Year Colorado Population by Hispanic Origin and Race by County
+123,1135,2006-2010 ACS 5-Year Colorado Population by Hispanic Origin and Race by Census Tract
+124,1136,2006-2010 ACS 5-Year Colorado Population by Hispanic Origin and Race by Census Block Group
+125,1137,2006-2010 ACS 5-Year Colorado State's Population by Race In Combination With One Or More Other Races
+126,1138,2006-2010 ACS 5-Year Colorado Population by Race In Combination With One Or More Other Races by County
+127,1139,2006-2010 ACS 5-Year Colorado Population by Race In Combination With One Or More Other Races by Census Tract
+128,1140,2006-2010 ACS 5-Year Colorado Population by Race In Combination With One Or More Other Races by Census Block Group
+129,1141,2006-2010 ACS 5-Year Colorado State's Total Population
+130,1142,2006-2010 ACS 5-Year Colorado Total Population by County
+131,1143,2006-2010 ACS 5-Year Colorado Total Population by Census Tract
+132,1144,2006-2010 ACS 5-Year Colorado Total Population by Census Block Group
+133,1147,2012 Colorado School Dropouts by Race or Ethnicity
+134,1148,2011 Colorado School Dropouts by Race or Ethnicity
+135,1149,2010 Colorado School Dropouts by Race or Ethnicity
+136,1153,2006-2010 ACS 5-Year Colorado State's Workers 16 Years Old and Over
+137,1154,2006-2010 ACS 5-Year Colorado Workers 16 Years Old and Over by County
+138,1155,2006-2010 ACS 5-Year Colorado Workers 16 Years Old and Over by Census Tract
+139,1156,2006-2010 ACS 5-Year Colorado Workers 16 Years Old and Over by Census Block Group
+140,1157,2006-2010 ACS 5-Year Colorado State's Workers 16 Years Old and Over by Sex
+141,1158,2006-2010 ACS 5-Year Colorado Workers 16 Years Old and Over by Sex by County
+142,1159,2006-2010 ACS 5-Year Colorado Workers 16 Years Old and Over by Sex by Census Tract
+143,1160,2006-2010 ACS 5-Year Colorado Workers 16 Years Old and Over by Sex by Census Block Group
+144,1174,2012 Colorado School Dropouts by Limited English Language Proficiency
+145,1175,2011 Colorado School Dropouts by Limited English Language Proficiency
+146,1176,2010 Colorado School Dropouts by Limited English Language Proficiency
+147,1177,2012 Colorado School Dropouts by Gender
+148,1178,2011 Colorado School Dropouts by Gender
+149,1179,2010 Colorado School Dropouts by Gender
+150,1180,2012 Colorado School Dropouts by Free or Reduced Lunch Eligibility Status
+151,1181,2011 Colorado School Dropouts by Free or Reduced Lunch Eligibility Status
+152,1182,2010 Colorado School Dropouts by Free or Reduced Lunch Eligibility Status
+153,1183,2012 Colorado School Dropouts
+154,1184,2011 Colorado School Dropouts
+155,1185,2010 Colorado School Dropouts
+156,1186,2012 Colorado School 9th Grade Dropouts by Race or Ethnicity
+157,1187,2011 Colorado School 9th Grade Dropouts by Race or Ethnicity
+158,1188,2010 Colorado School 9th Grade Dropouts by Race or Ethnicity
+159,1189,2012 Colorado School 9th Grade Dropouts by Gender
+160,1190,2011 Colorado School 9th Grade Dropouts by Gender
+161,1192,2010 Colorado School 9th Grade Dropouts by Gender
+162,1193,2012 Colorado School 9th Grade Dropouts
+163,1194,2011 Colorado School 9th Grade Dropouts
+164,1195,2010 Colorado School 9th Grade Dropouts
+165,1196,2012 Colorado District Dropouts by Race or Ethnicity
+166,1197,2011 Colorado District Dropouts by Race or Ethnicity
+167,1198,2010 Colorado District Dropouts by Race or Ethnicity
+168,1199,2012 Colorado District Dropouts by Limited English Language Proficiency
+169,1200,2011 Colorado District Dropouts by Limited English Language Proficiency
+170,1201,2010 Colorado District Dropouts by Limited English Language Proficiency
+171,1202,2012 Colorado District Dropouts by Gender
+172,1203,2011 Colorado District Dropouts by Gender
+173,1204,2010 Colorado District Dropouts by Gender
+174,1205,2012 Colorado District Dropouts by Free or Reduced Lunch Eligibility Status
+175,1206,2011 Colorado District Dropouts by Free or Reduced Lunch Eligibility Status
+176,1207,2010 Colorado District Dropouts by Free or Reduced Lunch Eligibility Status
+177,1209,2011 Colorado District Dropouts
+178,1210,2010 Colorado District Dropouts
+179,1211,2012 Colorado District Dropouts
+180,1214,2010 Colorado Schools
+181,1216,2009 Colorado Schools
+182,1222,2008 Colorado Schools
+183,1223,2012 Colorado Schools
+184,1224,2013 Colorado Schools
+185,1225,2012 Colorado District 9th Grade Dropouts by Race or Ethnicity
+186,1226,2011 Colorado District 9th Grade Dropouts by Race or Ethnicity
+187,1227,2010 Colorado District 9th Grade Dropouts by Race or Ethnicity
+188,1228,2012 Colorado District 9th Grade Dropouts by Gender
+189,1229,2011 Colorado District 9th Grade Dropouts by Gender
+190,1230,2010 Colorado District 9th Grade Dropouts by Gender
+191,1231,2012 Colorado District 9th Grade Dropouts
+192,1232,2011 Colorado District 9th Grade Dropouts
+193,1233,2010 Colorado District 9th Grade Dropouts
+194,1235,2010 Colorado District Graduates
+195,1236,2011 Colorado District Graduates
+196,1237,2012 Colorado District Graduates
+197,1238,2010 Colorado District Graduates by Free or Reduced Lunch Eligibility Status
+198,1239,2011 Colorado District Graduates by Free or Reduced Lunch Eligibility Status
+199,1240,2012 Colorado District Graduates by Free or Reduced Lunch Eligibility Status
+200,1241,2010 Colorado District Graduates by Gender
+201,1242,2011 Colorado District Graduates by Gender
+202,1243,2012 Colorado District Graduates by Gender
+203,1244,2010 Colorado District Graduates by Limited English Language Proficiency
+204,1245,2011 Colorado District Graduates by Limited English Language Proficiency
+205,1246,2012 Colorado District Graduates by Limited English Language Proficiency
+206,1247,2010 Colorado District Graduates by Race or Ethnicity
+207,1248,2011 Colorado District Graduates by Race or Ethnicity
+208,1249,2012 Colorado District Graduates by Race or Ethnicity
+209,1262,2010 Colorado School Graduates
+210,1263,2011 Colorado School Graduates
+211,1264,2012 Colorado School Graduates
+212,1265,2010 Colorado School Graduates by Free or Reduced Lunch Eligibility Status
+213,1266,2011 Colorado School Graduates by Free or Reduced Lunch Eligibility Status
+214,1267,2012 Colorado School Graduates by Free or Reduced Lunch Eligibility Status
+215,1268,2010 Colorado School Graduates by Gender
+216,1269,2011 Colorado School Graduates by Gender
+217,1270,2012 Colorado School Graduates by Gender
+218,1271,2010 Colorado School Graduates by Limited English Language Proficiency
+219,1272,2011 Colorado School Graduates by Limited English Language Proficiency
+220,1273,2012 Colorado School Graduates by Limited English Language Proficiency
+221,1274,2010 Colorado School Graduates by Race or Ethnicity
+222,1275,2011 Colorado School Graduates by Race or Ethnicity
+223,1276,2012 Colorado School Graduates by Race or Ethnicity
+224,1277,2010 Colorado District College Enrollment
+225,1278,2010 Colorado District College Enrollment by Gender
+226,1279,2010 Colorado District College Enrollment by Race or Ethnicity
+227,1280,2010 Colorado School College Enrollment
+228,1281,2010 Colorado School College Enrollment by Gender
+229,1282,2010 Colorado School College Enrollment by Race or Ethnicity
+230,1283,2011 Colorado District Full-Day Kindergarten by Gender
+231,1284,2011 Colorado District Full-Day Kindergarten
+232,1285,2011 Colorado District Full-Day Kindergarten by Race or Ethnicity
+233,1286,2011 Colorado School Full-Day Kindergarten
+234,1287,2011 Colorado School Full-Day Kindergarten by Gender
+235,1288,2011 Colorado School Full-Day Kindergarten by Race or Ethnicity
+236,1289,2011-2012 Colorado School District TCAP Summary
+237,1290,2011-2012 Colorado School District TCAP Summary by Free and Reduced Lunch Eligibility Status
+238,1291,2011-2012 Colorado School District TCAP Summary by Gender
+239,1292,2011-2012 Colorado School District TCAP Summary by Limited English Language Proficiency
+240,1293,2011-2012 Colorado School District TCAP Summary by Race or Ethnicity
+241,1295,2011-2012 Colorado School  TCAP Summary
+242,1296,2011-2012 Colorado School  TCAP Summary by Free and Reduced Lunch Eligibility Status
+243,1297,2011-2012 Colorado School TCAP Summary by Gender
+244,1298,2011-2012 Colorado School TCAP Summary by Limited English Language Proficiency
+245,1299,2011-2012 Colorado School TCAP Summary by Race or Ethnicity
+246,1300,2010 Colorado District Quality Schools
+247,1301,2011 Colorado District Quality Schools
+248,1302,2012 Colorado District Quality Schools
+249,1303,2010 Colorado School Performance Framework
+250,1304,2011 Colorado School Performance Framework
+251,1305,2012 Colorado School Performance Framework
+252,1306,2010 Colorado School FAFSA Completion
+253,1307,2011 Colorado School FAFSA Completion
+254,1308,2012 Colorado School FAFSA Completion
+255,1309,2010 Colorado District Students in Quality Schools
+256,1310,2011 Colorado District Students in Quality Schools 
+257,1311,2012 Colorado District Students in Quality Schools 
+258,1312,2010 Colorado District Students in Quality Schools by Gender
+259,1313,2011 Colorado District Students in Quality Schools by Gender
+260,1314,2012 Colorado District Students in Quality Schools by Gender
+261,1315,2010 Colorado District Students in Quality Schools by Race or Ethnicity
+262,1316,2011 Colorado District Students in Quality Schools by Race or Ethnicity
+263,1317,2012 Colorado District Students in Quality Schools by Race or Ethnicity
+264,1318,2006-2010 ACS 5-Year Colorado State's Workers 16 Years Old and Over by Place of Work (State and County Level)
+265,1319,2006-2010 ACS 5-Year Colorado Workers 16 Years Old and Over by Place of Work (State and County Level) by County
+266,1320,2006-2010 ACS 5-Year Colorado Workers 16 Years Old and Over by Place of Work (State and County Level) by Census Tract
+267,1321,2006-2010 ACS 5-Year Colorado Workers 16 Years Old and Over by Place of Work (State and County Level) by Census Block Group
+268,1322,2006-2010 ACS 5-Year Colorado State's Workers 16 Years Old and Over by Place of Work (Place Level)
+269,1323,2006-2010 ACS 5-Year Colorado Workers 16 Years Old and Over by Place of Work (Place Level) by County
+270,1324,2006-2010 ACS 5-Year Colorado Workers 16 Years Old and Over by Place of Work (Place Level) by Census Tract
+271,1325,2006-2010 ACS 5-Year Colorado Workers 16 Years Old and Over by Place of Work (Place Level) by Census Block Group
+272,1326,2006-2010 ACS 5-Year Colorado State's Workers 16 Years Old and Over by Gender and Place of Work (State and County Level)
+273,1327,2006-2010 ACS 5-Year Colorado Workers 16 Years Old and Over by Gender and Place of Work (State and County Level) by County
+274,1328,2006-2010 ACS 5-Year Colorado Workers 16 Years Old and Over by Gender and Place of Work (State and County Level) by Census Tract
+275,1329,2006-2010 ACS 5-Year Colorado Workers 16 Years Old and Over by Gender and Place of Work (State and County Level) by Census Block Group
+276,1330,2006-2010 ACS 5-Year Colorado State's Workers 16 Years Old and Over by Gender and Place of Work (Place Level)
+277,1331,2006-2010 ACS 5-Year Colorado Workers 16 Years Old and Over by Gender and Place of Work (Place Level) by County
+278,1332,2006-2010 ACS 5-Year Colorado Workers 16 Years Old and Over by Gender and Place of Work (Place Level) by Census Tract
+279,1333,2006-2010 ACS 5-Year Colorado Workers 16 Years Old and Over by Gender and Place of Work (Place Level) by Census Block Group
+280,1334,2006-2010 ACS 5-Year Colorado State's Aggregate Travel Time to Work (in minutes) of Workers 16 Years Old and Over
+281,1335,2006-2010 ACS 5-Year Colorado Aggregate Travel Time to Work (in minutes) of Workers 16 Years Old and Over by County
+282,1336,2006-2010 ACS 5-Year Colorado Aggregate Travel Time to Work (in minutes) of Workers 16 Years Old and Over by Census Tract
+283,1337,2006-2010 ACS 5-Year Colorado Aggregate Travel Time to Work (in minutes) of Workers 16 Years Old and Over by Census Block Group
+284,1341,2006-2010 ACS 5-Year Colorado State's Aggregate Travel Time to Work (in minutes) by Means of Transportation to Work
+285,1342,2006-2010 ACS 5-Year Colorado Aggregate Travel Time to Work (in minutes) by Means of Transportation to Work by County
+286,1343,2006-2010 ACS 5-Year Colorado Aggregate Travel Time to Work (in minutes) by Means of Transportation to Work by Census Tract
+287,1344,2006-2010 ACS 5-Year Colorado Aggregate Travel Time to Work (in minutes) by Means of Transportation to Work by Census Block Group
+288,1345,2006-2010 ACS 5-Year Colorado State's Aggregate Travel Time to Work (in minutes) by Travel Time to Work
+289,1346,2006-2010 ACS 5-Year Colorado Aggregate Travel Time to Work (in minutes) by Travel Time to Work by County
+290,1347,2006-2010 ACS 5-Year Colorado Aggregate Travel Time to Work (in minutes) by Travel Time to Work by Census Tract
+291,1348,2006-2010 ACS 5-Year Colorado Aggregate Travel Time to Work (in minutes) by Travel Time to Work by Census Block Group
+292,1349,2006-2010 ACS 5-Year Colorado State's Workers 16 Years Old and Over Not Work At Home
+293,1350,2006-2010 ACS 5-Year Colorado Workers 16 Years Old and Over Not Work At Home by County
+294,1351,2006-2010 ACS 5-Year Colorado Workers 16 Years Old and Over Not Work At Home by Census Tract
+295,1352,2006-2010 ACS 5-Year Colorado Workers 16 Years Old and Over Not Work At Home by Census Block Group
+296,1353,2006-2010 ACS 5-Year Colorado State's Means of Transportation to Work of Workers 16 Years Old and Over Not Work At Home
+297,1354,2006-2010 ACS 5-Year Colorado Means of Transportation to Work by County of Workers 16 Years Old and Over Not Work At Home
+298,1355,2006-2010 ACS 5-Year Colorado Means of Transportation to Work by Census Tract of Workers 16 Years Old and Over Not Work At Home
+299,1356,2006-2010 ACS 5-Year Colorado Means of Transportation to Work by Census Block Group of Workers 16 Years Old and Over Not Work At Home
+300,1357,2006-2010 ACS 5-Year Colorado State's Travel Time to Work of Workers 16 Years Old and Over Not Work At Home
+301,1358,2006-2010 ACS 5-Year Colorado Travel Time to Work by County of Workers 16 Years Old and Over Not Work At Home
+302,1359,2006-2010 ACS 5-Year Colorado Travel Time to Work by Census Tract of Workers 16 Years Old and Over Not Work At Home
+303,1360,2006-2010 ACS 5-Year Colorado Travel Time to Work by Census Block Group of Workers 16 Years Old and Over Not Work At Home
+304,1361,2006-2010 ACS 5-Year Colorado State's Means of Transportation to Work by Travel Time to Work of Workers 16 Years Old and Over Not Work At Home
+305,1362,2006-2010 ACS 5-Year Colorado Means of Transportation to Work by Travel Time to Work by County of Workers 16 Years Old and Over Not Work At Home
+306,1363,2006-2010 ACS 5-Year Colorado Means of Transportation to Work by Travel Time to Work by Census Tract of Workers 16 Years Old and Over Not Work At Home
+307,1364,2006-2010 ACS 5-Year Colorado Means of Transportation to Work by Travel Time to Work by Census Block Group of Workers 16 Years Old and Over Not Work At Home
+308,1367,2006-2010 ACS 5-Year Colorado State's Means of Transportation to Work of Workers 16 Years Old and Over
+309,1368,2006-2010 ACS 5-Year Colorado Means of Transportation to Work of Workers 16 Years Old and Over by County
+310,1369,2006-2010 ACS 5-Year Colorado Means of Transportation to Work of Workers 16 Years Old and Over by Census Tract
+311,1370,2006-2010 ACS 5-Year Colorado Means of Transportation to Work of Workers 16 Years Old and Over by Census Block Group
+312,1371,2006-2010 ACS 5-Year Colorado State's Time Leaving Home To Go To Work of Workers 16 Years Old and Over Not Work At Home
+313,1372,2006-2010 ACS 5-Year Colorado Time Leaving Home To Go To Work of Workers 16 Years Old and Over Not Work At Home by County
+314,1373,2006-2010 ACS 5-Year Colorado Time Leaving Home To Go To Work of Workers 16 Years Old and Over Not Work At Home by Census Tract
+315,1374,2006-2010 ACS 5-Year Colorado Time Leaving Home To Go To Work of Workers 16 Years Old and Over Not Work At Home by Census Block Group
+316,1377,2011 Colorado Births to Mothers Receiving Adequate Prenatal Care by Census Tract
+317,1378,2010 Colorado Births to Mothers Receiving Adequate Prenatal Care by Census Tract
+318,1379,2011 Colorado Mothers Smoking in 3rd Trimester by Census Tract
+319,1380,2010 Colorado Mothers Smoking in 3rd Trimester by Census Tract
+320,1381,2011 Colorado Births to Single Mothers by Census Tract
+321,1382,2010 Colorado Births to Single Mothers by Census Tract
+322,1383,2011 Colorado Low Birthweight by Census Tract
+323,1384,2010 Colorado Low Birthweight by Census Tract
+324,1385,2011 Colorado Births to Mothers Receiving Late or No Prenatal Care by Census Tract
+325,1386,2010 Colorado Births to Mothers Receiving Late or No Prenatal Care by Census Tract
+326,1387,2011 Colorado Infant Mortality Rate by Census Tract
+327,1388,2010 Colorado Infant Mortality Rate by Census Tract
+328,1389,2010 Colorado Birth Percents by Census Tract
+329,1390,2010 Colorado Birth Counts by Census Tract
+330,1391,2010 Colorado Premature Births by Census Tract
+331,1392,2011 Colorado Premature Births by Census Tract
+332,1403,2012 Colorado District Full-Day Kindergarten
+333,1404,2012 Colorado District Full-Day Kindergarten by Gender
+334,1405,2012 Colorado District Full-Day Kindergarten by Race or Ethnicity
+335,1406,2012 Colorado School Full-Day Kindergarten
+336,1407,2012 Colorado School Full-Day Kindergarten by Gender
+337,1408,2012 Colorado School Full-Day Kindergarten by Race or Ethnicity
+338,1428,2012 Colorado School Enrollment by Race and Ethnicity
+339,1433,2006-2010 ACS 5-Year Colorado State's Household Income
+340,1434,2006-2010 ACS 5-Year Colorado Household Income by County
+341,1435,2006-2010 ACS 5-Year Colorado Household Income by Census Tract
+342,1436,2006-2010 ACS 5-Year Colorado Household Income by Census Block Group
+343,1437,2006-2010 ACS 5-Year Colorado State's Median Household Income
+344,1438,2006-2010 ACS 5-Year Colorado Median Household Income by County
+345,1439,2006-2010 ACS 5-Year Colorado Median Household Income by Census Tract
+346,1440,2006-2010 ACS 5-Year Colorado Median Household Income by Census Block Group
+347,1441,2006-2010 ACS 5-Year Colorado State's Median Household Income by Race and Ethnicity
+348,1442,2006-2010 ACS 5-Year Colorado Median Household Income by Race and Ethnicity by County
+349,1444,2006-2010 ACS 5-Year Colorado Median Household Income by Race and Ethnicity by Census Block Group
+350,1445,2006-2010 ACS 5-Year Colorado Median Household Income by Race and Ethnicity by Census Tract
+351,1446,Access to Healthy Food in Colorado by Census Tract
+352,1448,2006-2010 ACS 5-Year Colorado Median Year Built of Housing Units by Census Tract
+353,1449,2006-2010 ACS 5-Year Colorado Median Year Built of Housing Units by Census Block Group
+354,1450,2006-2010 ACS 5-Year Colorado State's Median Year Built of Housing Units
+355,1451,2006-2010 ACS 5-Year Colorado Median Year Built of Housing Units by County
+356,1452,2006-2010 ACS 5-Year Colorado State's Number of Housing Units by Year Built
+357,1453,2006-2010 ACS 5-Year Colorado Number of Housing Units by Year Built by Coun
+358,1454,2006-2010 ACS 5-Year Colorado Number of Housing Units by Year Built by Census Tract
+359,1455,2006-2010 ACS 5-Year Colorado Number of Housing Units by Year Built by Census Block Group
+360,1456,2012 Colorado School PK-12 Enrollment
+361,1458,2012 Colorado School PK-12 Enrollment by Free and Reduced Lunch Eligibility
+362,1459,2011 Colorado School PK-12 Enrollment
+363,1460,2011 Colorado School PK-12 Enrollment by Free and Reduced Lunch Eligibility
+364,1461,2010 Colorado School PK-12 Enrollment
+365,1462,2010 Colorado School PK-12 Enrollment by Free and Reduced Lunch Eligibility
+366,1463,2012 Colorado School District PK-12 Enrollment
+367,1464,2012 Colorado School District PK-12 Enrollment by Free and Reduced Lunch Eligibility
+368,1465,2011 Colorado School District PK-12 Enrollment
+369,1466,2011 Colorado School District PK-12 Enrollment by Free and Reduced Lunch Eligibility
+370,1467,2010 Colorado School District PK-12 Enrollment
+371,1468,2010 Colorado School District PK-12 Enrollment by Free and Reduced Lunch Eligibility
+372,1472,2000 Tax Returns State Total
+373,1473,2000 Tax Returns by County
+374,1474,2000 Tax Returns by City
+375,1475,2000 Tax Returns by Zipcode
+376,1476,2010 Tax Returns State Total
+377,1477,2010 Tax Returns by County
+378,1478,2010 Tax Returns by City
+379,1479,2010 Tax Returns by Zipcode
+380,1480,2006-2010 ACS 5-Year Colorado Educational Attainment For The Population 25 Years And Over by Sex
+381,1481,2006-2010 ACS 5-Year Colorado Selected Monthly Owner Costs As A Percentage Of Household Income In The Past 12 Months by Mortgage Status by County
+382,1482,2006-2010 ACS 5-Year Colorado Educational Attainment For The Population 25 Years And Over by Sex by County
+383,1483,2006-2010 ACS 5-Year Colorado Educational Attainment For The Population 25 Years And Over by Sex by Census Tract
+384,1484,2006-2010 ACS 5-Year Colorado Educational Attainment For The Population 25 Years And Over by Sex by Census Block Group
+385,1485,2006-2010 ACS 5-Year Colorado Gross Rent As A Percentage Of Household Income In The Past 12 Months
+386,1486,2006-2010 ACS 5-Year Colorado Gross Rent As A Percentage Of Household Income In The Past 12 Months by County
+387,1487,2006-2010 ACS 5-Year Colorado Gross Rent As A Percentage Of Household Income In The Past 12 Months by Census Tract
+388,1488,2006-2010 ACS 5-Year Colorado Gross Rent As A Percentage Of Household Income In The Past 12 Months by Census Block Group
+389,1489,2006-2010 ACS 5-Year Colorado Selected Monthly Owner Costs As A Percentage Of Household Income In The Past 12 Months by Mortgage Status
+390,1490,2006-2010 ACS 5-Year Colorado Selected Monthly Owner Costs As A Percentage Of Household Income In The Past 12 Months by Mortgage Status by Census Tract
+391,1491,2006-2010 ACS 5-Year Colorado Selected Monthly Owner Costs As A Percentage Of Household Income In The Past 12 Months by Mortgage Status by Census Block Group
+392,1508,Transportation Cost Burdens as Percent of Income in 2013 within Half-mile Transit Zone around Transit Stations in Metro Denver
+393,1513,2010 Colorado Number of Jobs by Worker's Age by Census Block
+394,1514,2010 Colorado Number of Jobs by NAICS code by Census Block
+395,1515,2010 Colorado Number of Jobs by monthly earnings by Census Block
+396,5221,2000 Colorado K-12 Free and Reduced Lunch Eligibility by School District
+397,5900,2010 Student Transportation Cost by School District
+398,6899,2010 Colorado Number of Jobs by Educational Attainment by Census Block
+399,7366,Qualistar Center List 2010
+400,7367,2010 Colorado Restricted Rental Affordable Housing
+401,7368,2010 Colorado Federally Subsidized Affordable Housing
+402,7369,2010 Colorado Restricted Owner Affordable Housing
+403,16912,2000 Census Colorado Total Households by State
+404,16913,2000 Census Colorado Tenure by White Alone by Block Group
+405,16914,2000 Census Colorado Language at Home by Ability to Speak English Over Age 5 by Hispanic or Latino Ethnicity by State
+406,16915,2000 Census Colorado Travel Time to Work by State
+407,16916,2000 Census Colorado Tenure by Race of Householder by State
+408,16917,2000 Census Colorado Total Households by Block
+409,16918,2000 Census Colorado Language at Home by Ability to Speak English Over Age 5 by Hispanic or Latino Ethnicity by Tract
+410,16919,2000 Census Colorado Residence in 1995 for the Population over 5 by County
+411,16920,2000 Census Colorado Vacancy Status by Tract
+412,16921,2000 Census Colorado Total Population by County
+413,16922,2000 Census Colorado Population Age by Gender by Tract
+414,16932,2000 Census Colorado Total Population by Tract
+415,16933,2000 Census Colorado Population Age by Gender by County
+416,16934,2000 Census Colorado Travel Time to Work by Tract
+417,17059,2000 Census Colorado Total Population by State
+418,17060,2000 Census Colorado Travel Time to Work by County
+419,17061,2000 Census Colorado Vacancy Status by State
+420,17062,2000 Census Colorado Population by Race by Block
+421,17063,2000 Census Colorado Vacancy Status by County
+422,17064,2000 Census Colorado Sex by Educational Attainment by County
+423,17065,2000 Census Colorado Language at Home by Ability to Speak English Over Age 5 by Hispanic or Latino Ethnicity by County
+424,17066,2000 Census Colorado Tenure by Race of Householder by Tract
+425,17067,2000 Census Colorado Means of Transportation to Work by Block Group
+426,17068,2000 Census Colorado Residence in 1995 for the Population over 5 by Block Group
+427,17069,2000 Census Colorado Total Households by Tract
+428,17070,2000 Census Colorado Means of Transportation to Work by Tract
+429,17071,2000 Census Colorado Tenure by Race of Householder by County
+430,17072,2000 Census Colorado Residence in 1995 for the Population over 5 by Tract
+431,17073,2000 Census Colorado Total Households by Block Group 
+432,17074,2000 Census Colorado Means of Transportation to Work by County
+433,17075,2000 Census Colorado Total Households by County
+434,17076,2000 Census Colorado Means of Transportation to Work by State
+435,17077,2000 Census Colorado Average Household Size by Tract
+436,17078,2000 Census Colorado Tenure by Hispanic or Latino Householder by Block Group
+437,17079,2000 Census Colorado Residence in 1995 for the Population over 5 by State
+438,17080,2000 Census Colorado Population by Race by Block Group
+439,17081,2000 Census Colorado Tenure by Hispanic or Latino Householder by Tract
+440,17082,2000 Census Colorado Population by Race by Tract
+441,17083,2000 Census Colorado Population by Race by County
+442,17084,2000 Census Colorado Population by Race by State
+443,17085,2000 Census Colorado Nativity by Language at Home by Ability to Speak English over 5 Years of Age by County
+444,17086,2000 Census Colorado Average Household Size by State
+445,17087,2000 Census Colorado Average Household Size by Block Group
+446,17088,2000 Census Colorado Average Household Size by County
+447,17089,2000 Census Colorado Population Age by Gender by State
+448,17090,2000 Census Colorado Household Type by Block
+449,17091,2000 Census Colorado Population in Households by Block
+450,17092,2000 Census Colorado Household Type by Block Group
+451,17093,2000 Census Colorado Population in Households by Block Group
+452,17094,2000 Census Colorado Household Type by Tract
+453,17095,2000 Census Colorado Tenure by Hispanic or Latino Householder by State
+454,17096,2000 Census Colorado Household Type by County
+455,17097,2000 Census Colorado Population in Households by Tract
+456,17098,2000 Census Colorado Tenure by Hispanic or Latino Householder by County
+457,17099,2000 Census Colorado Household Type by State
+458,17100,2000 Census Colorado Population in Households by County
+459,17101,2000 Census Colorado Population in Households by State
+460,17102,2000 Census Colorado Population Median Age by Block
+461,17103,2000 Census Colorado Population Median Age by Gender by Block Group
+462,17104,Colorado State's K-3 English Language Development Teachers with English Language Learners (ELL) Certification 2012-2013
+463,17105,2000 Census Colorado Population Under 20 by Gender and Age by Tract
+464,17106,2000 Census Colorado Population Median Age by Gender by Tract
+465,17107,Colorado 5-County Metro Truancy Rate 2012 by County
+466,17108,2000 Census Colorado Sex by Educational Attainment by Tract
+467,17109,2000 Census Colorado Tenure by White Alone by Tract
+468,17110,Colorado 5-County Metro K-3 English Language Development Teachers with English Language Learners (ELL) Certification 2012-2013
+469,17111,2000 Census Colorado Population Under 20 by Gender and Age by Block
+470,17112,2000 Census Colorado Population Median Age by Gender by County
+471,17113,2000 Census Colorado Tenure by Race of Householder by Block Group
+472,17114,Colorado 5-County Metro K-3 English Language Development Teachers with English Language Learners (ELL) Certification by County 2012-2013
+473,17115,2000 Census Colorado Population Under 20 by Gender and Age by State
+474,17116,2000 Census Colorado Population Median Age by Gender by State
+475,17117,Colorado 5-County Metro K-3 English Language Development Teachers with English Language Learners (ELL) Certification by School District 2012-2013
+476,17118,2000 Census Colorado Tenure by White Alone by County
+477,17119,Colorado 5-County Metro Truancy Rate 2012
+478,17120,2000 Census Colorado Travel Time to Work by Block Group
+479,17121,2000 Census Colorado Population Under 20 by Gender and Age by County
+480,17122,2000 Census Colorado Median Year Structure Built by Block Group
+481,17123,2000 Census Colorado Population Under 20 by Gender and Age by Block Group
+482,17124,Colorado 5-County Metro Truancy Rate 2012 by School District
+483,17125,2000 Census Colorado Median Year Structure Built by Tract
+484,17126,Colorado 5-County Metro Truancy Rate 2012 by School
+485,17127,2000 Census Colorado Average Household Size by Block
+486,17128,2000 Census Colorado Median Year Structure Built by County
+487,17129,2000 Census Colorado Tenure by White Alone by State
+488,17130,2000 Census Colorado Population Age by Gender by Block
+489,17131,2000 Census Colorado Median Year Structure Built by State
+490,17132,2000 Census Colorado Total Population by Block
+491,17133,2000 Census Colorado Vacancy Status by Block Group
+492,17134,2000 Census Colorado Total Population by Block Group
+493,17135,2000 Census Colorado Population Age by Gender by Block Group
+494,17136,2000 Census Colorado Sex by Educational Attainment by State
+495,17137,2000 Census Colorado Sex by Educational Attainment by Block Group
+496,17138,2000 Census Colorado Nativity by Language at Home by Ability to Speak English over 5 Years of Age by Tract
+497,17139,2000 Census Colorado Nativity by Language at Home by Ability to Speak English over 5 Years of Age by State
+498,17140,2000 Census Colorado Tenure by Household Type and Presence and Age of Children by Tract
+499,17141,2000 Census Colorado Tenure by Household Type and Presence and Age of Children by State
+500,17142,2000 Census Colorado Tenure by Household Type and Presence and Age of Children by County
+501,20219,Percent of Individuals living 200% or below federal poverty level (FPL)
+502,28248,2010 Colorado Premature Births by County
+503,28249,2010 Colorado Premature Births by Census Tract
+504,28250,2010 Colorado Premature Births by State
+505,61916,2010 Colorado Low Birth Weight Births by Census Tract
+506,61917,2010 Colorado Low Birth Weight Births by County
+507,61918,2010 Colorado State's Low Birth Weight Births
+508,61944,2010 Colorado Births to Mothers Receiving Late or No Prenatal Care by Census Tract
+509,61945,2010 Colorado State's Births to Mothers Receiving Late or No Prenatal Care
+510,61946,2010 Colorado Births to Mothers Receiving Late or No Prenatal Care by County
+511,61956,Qualistar Center List 2013
+512,219555,2010 Colorado State's Total Births
+513,219556,2010 Colorado Total Births by County
+514,219557,2010 Colorado Total Births by Census Tract
+515,219710,2010 Colorado Births to Single Mothers by Census Tract
+516,219711,2010 Colorado Births to Single Mothers by County
+517,219712,2010 Colorado State's Births to Single Mothers
+518,220426,2010 Colorado State's Births to Teen Mothers
+519,220427,2010 Colorado Births to Teen Mothers by County
+520,220428,2010 Colorado Births to Teen Mothers by Census Tract
+521,220562,2010 Colorado State's Births to Foreign-born mothers
+522,220563,2010 Colorado Births to Foreign-born mothers by County
+523,220564,2010 Colorado Births to Foreign-born mothers by Census Tract
+524,220617,2010 Colorado State's Births by Maternal Race and Ethnicity
+525,220618,2010 Colorado Births by Maternal Race and Ethnicity by County
+526,220619,2010 Colorado Births by Maternal Race and Ethnicity by Census Tract
+527,220621,2010 Colorado State's Births to Women Age 20 and over with less than 12th Grade Education
+528,220622,2010 Colorado Births to Women Age 20 and over with less than 12th Grade Education by County
+529,220623,2010 Colorado Births to Women Age 20 and over with less than 12th Grade Education by Census Tract
+530,220806,2000 Census Colorado Housing Units by County
+531,220807,2000 Census Colorado State's Housing Units
+532,220808,2000 Census Colorado Housing Units by Census Tract
+533,220809,2000 Census Colorado State's Aggregate Household Income
+534,220810,2000 Census Colorado Aggregate Household Income by Census Tract
+535,220811,2000 Census Colorado Aggregate Household Income by County
+536,220812,2000 Census Colorado State's Foreign Born Population
+537,220813,2000 Census Colorado Foreign Born Population by Census Tract
+538,220814,2000 Census Colorado Foreign Born Population by County
+539,220815,2000 Census Colorado State's Year Structure Built
+540,220816,2006-2010 ACS 5-Year Colorado Aggregate Income by Census Tract
+541,220817,2000 Census Colorado Year Structure Built by Census Tract
+542,220818,2000 Census Colorado Year Structure Built by County
+543,220819,2000 Census Colorado State's Gross Rent as Percent of Household Income
+544,220820,2006-2010 ACS 5-Year Colorado State's Aggregate Income
+545,220821,2006-2010 ACS 5-Year Colorado State's Race of Householders
+546,220822,2006-2010 ACS 5-Year Colorado Language Spoken at home by age by ability to speak English by county
+547,220823,2000 Census Colorado Gross Rent as Percent of Household Income by Census Tract
+548,220824,2006-2010 ACS 5-Year Colorado Aggregate Income by County
+549,220825,2000 Census Colorado Gross Rent as Percent of Household Income by County
+550,220826,2006-2010 ACS 5-Year Colorado Foreign Born Population by Census Tract
+551,220827,2006-2010 ACS 5-Year Colorado State's Foreign Born Population
+552,220828,2000 Census Colorado State's Population in Poverty by Age
+553,220829,2000 Census Colorado Population in Poverty by Age by Census Tract
+554,220830,2006-2010 ACS 5-Year Colorado Foreign Born Population by County
+555,220833,2000 Census Colorado Population in Poverty by Age by County
+556,220835,2006-2010 ACS 5-Year Colorado Race of Householders by Census Tract
+557,220836,2000 Census Colorado State's Families in Poverty by Family Type
+558,220837,2000 Census Colorado Families in Poverty by Family Type by Census Tract
+559,220838,2000 Census Colorado Families in Poverty by Family Type by County
+560,220839,2006-2010 ACS 5-Year Colorado Race of Householders by County
+561,220840,2006-2010 ACS 5-Year Colorado Population in Poverty by Race by Census Tract
+562,220841,2006-2010 ACS 5-Year Colorado State's Population in Poverty by Race
+563,220842,2006-2010 ACS 5-Year Colorado Population in Poverty by Race by County
+564,220843,2006-2010 ACS 5-Year Colorado families in Poverty by family type by census tract
+565,220844,2006-2010 ACS 5-Year Colorado state's families in Poverty by family type
+566,220845,2006-2010 ACS 5-Year Colorado families in Poverty by family type by county
+567,220846,2006-2010 ACS 5-Year Colorado Language Spoken at home by age by ability to speak English by census tract
+568,220847,2000 Census Colorado Population in Poverty by Race and Ethnicity by Census Tract
+569,220848,2000 Census Colorado State's Language Spoken at Home by Ability to speak English by Age
+570,220849,2000 Census Colorado Language Spoken at home by Ability to Speak English by Age by Census Tract
+571,220850,2006-2010 ACS 5-Year Colorado State's Language Spoken at home by age by ability to speak English
+572,220851,2000 Census Colorado Language Spoken at home by Ability to Speak English by Age by County
+573,220852,2006-2010 ACS 5-Year Colorado State's Tenure by Hispanic or Latino Householder
+574,220853,2006-2010 ACS 5-Year Colorado Population in Poverty(Hispanic or Latino) by Census Tract
+575,220854,2006-2010 ACS 5-Year Colorado Tenure by Hispanic or Latino Householder by County
+576,220855,2006-2010 ACS 5-Year Colorado Population in Poverty(Hispanic or Latino) by Census Tract
+577,220856,2006-2010 ACS 5-Year Colorado Population in Poverty(Hispanic or Latino) by County
+578,220857,2000 Census Colorado State's Population in Poverty by Race and Ethnicity
+579,220858,2010 Census Colorado Population by Race and Ethnicity
+580,220859,2000 Census Colorado Population in Poverty by Race and Ethnicity by County
+581,220860,2006-2010 ACS 5-Year Colorado State's Average Household Size by Tenure
+582,220861,2010 Census Colorado Tenure by Race of Householder by Census Tract
+583,220862,2010 Census Colorado State's Tenure by Race of Householder
+584,220863,2010 Census Colorado Tenure by Race of Householder by County
+585,220864,2006-2010 ACS 5-Year Colorado Tenure by Hispanic or Latino Householder by Census Tract
+586,220865,2006-2010 ACS 5-Year Colorado State's Population in Poverty by sex by age
+587,220866,2006-2010 ACS 5-Year Colorado Population in Poverty by sex by age by Census Tract
+588,220867,2006-2010 ACS 5-Year Colorado Population in Poverty by sex by age by County
+589,221037,Colorado 5-County Metro General Educational Development (GED) Completion Rate 2012
+590,221038,Colorado 5-County Metro Unemployment by County 2012
+591,221039,Colorado 5-County Metro Unemployment 2012
+592,221040,Colorado State's Unemployment 2012
+593,221041,Colorado 5-County Metro Unemployment by County 2013
+594,221042,Colorado 5-County Metro Unemployment 2011
+595,221043,Colorado 5-County Metro Percent of Individuals Living 200% or Below Federal Poverty Level (FPL) by County 2011
+596,221044,Colorado 5-County Metro College Enrollment 2012 by County
+597,221045,Colorado 5-County Metro College Enrollment 2011 by County
+598,221046,Colorado 5-County Metro College Enrollment 2009 by County
+599,221047,Colorado 5-County Metro College Enrollment 2010 by School District
+600,221048,Colorado 5-County Metro College Enrollment 2010
+601,221049,Colorado 5-County Metro College Enrollment 2010 by County
+602,221050,Colorado 5-County Metro College Enrollment 2009
+603,221051,Colorado 5-County Metro College Enrollment 2011
+604,221052,Colorado 5-County Metro College Enrollment 2012 by School District
+605,221053,Colorado 5-County Metro College Enrollment 2009 by School District
+606,221054,Colorado 5-County Metro College Enrollment 2011 by School District
+607,221055,Colorado 5-County Metro College Enrollment 2012
+608,221056,Colorado 5-County Metro College Enrollment 2009 by Gender by County
+609,221057,Colorado 5-County Metro College Enrollment by Gender 2009
+610,221058,Colorado 5-County Metro College Enrollment 2010 by Gender by County
+611,221059,Colorado 5-County Metro College Enrollment by Gender 2010
+612,221060,Colorado 5-County Metro College Enrollment 2011 by Gender by County
+613,221061,Colorado 5-County Metro College Enrollment by Gender 2011
+614,221062,Colorado State's Percent of Individuals Living 200% or Below Federal Poverty Level (FPL) 2010
+615,221063,Colorado 5-County Metro College Enrollment by Race by County 2009
+616,221064,Colorado 5-County Metro College Enrollment by Race 2009
+617,221065,Colorado 5-County Metro College Enrollment by Race by County 2010
+618,221066,Colorado 5-County Metro College Enrollment by Race 2010
+619,221067,Colorado 5-County Metro College Enrollment by Race by County 2011
+620,221068,Colorado State's Unemployment 2011
+621,221069,Colorado 5-County Metro College Enrollment by Race 2011
+622,221070,Colorado 5-County Metro College Enrollment by Race by County 2012
+623,221071,Colorado 5-County Metro College Enrollment by Race 2012
+624,221072,Colorado 5-County Metro College Enrollment by Gender 2012
+625,221073,Colorado 5-County Metro Percent of Individuals Living 200% or Below Federal Poverty Level (FPL) by County 2010
+626,221074,Colorado 5-County Metro Percent of Individuals Living 200% or Below Federal Poverty Level (FPL) 2010
+627,221075,Colorado 5-County Metro Percent of Individuals Living 200% or Below Federal Poverty Level (FPL) 2011
+628,221076,Colorado State's Percent of Individuals Living 200% or Below Federal Poverty Level (FPL) 2011
+629,221077,Colorado 5-County Metro Percent of Individuals Living 200% or Below Federal Poverty Level (FPL) by County 2012
+630,221078,Colorado 5-County Metro Percent of Individuals Living 200% or Below Federal Poverty Level (FPL) 2012
+631,221079,Colorado State's Percent of Individuals Living 200% or Below Federal Poverty Level (FPL) 2012
+632,221080,Colorado 5-County Metro Unemployment by County 2010
+633,221081,Colorado 5-County Metro Unemployment 2010
+634,221082,Colorado State's Unemployment 2010
+635,221083,Colorado 5-County Metro Unemployment by County 2011
+636,221084,Colorado 5-County Metro Unemployment 2013
+637,221085,Colorado State's Unemployment 2013
+638,221086,Colorado 5-County Metro Households Receiving Foodstamps by County 2010
+639,221087,Colorado 5-County Metro Households Receiving Foodstamps 2010
+640,221088,Colorado State's Households Receiving Foodstamps 2010
+641,221089,Colorado 5-County Metro Households Receiving Foodstamps by County 2011
+642,221090,Colorado 5-County Metro Households Receiving Foodstamps 2011
+643,221091,Colorado State's Households Receiving Foodstamps 2011
+644,221092,Colorado 5-County Metro Households Receiving Foodstamps by County 2012
+645,221093,Colorado 5-County Metro Households Receiving Foodstamps 2012
+646,221094,Colorado State's Households Receiving Foodstamps 2012
+647,221095,Colorado 5-County Metro Home Ownership by County 2011
+648,221096,Colorado 5-County Metro Home Ownership 2010
+649,221097,Colorado 5-County Metro Home Ownership by County 2010
+650,221098,Colorado State's Home Ownership 2010
+651,221099,Colorado 5-County Metro Home Ownership 2011
+652,221100,Colorado State's Home Ownership 2011
+653,221101,Colorado 5-County Metro Home Ownership by County 2012
+654,221102,Colorado 5-County Metro Home Ownership 2012
+655,221103,Colorado State's Home Ownership 2012
+656,221104,Colorado 5-County Metro Percent of Individuals Living 200% or Below Federal Poverty Level (FPL) by Census Tract 2011
+657,221105,Colorado 5-County Metro Percent of Individuals Living 200% or Below Federal Poverty Level (FPL) by Census Tract 2012
+658,221106,Colorado 5-County Metro Households Receiving Foodstamps by Census Tract 2010
+659,221107,Colorado 5-County Metro Households Receiving Foodstamps by Census Tract 2011
+660,221108,Colorado 5-County Metro Households Receiving Foodstamps by Census Tract 2012
+661,221109,Colorado 5-County Metro Home Ownership by Census Tract 2010
+662,221110,Colorado 5-County Metro Home Ownership by Census Tract 2011
+663,221111,Colorado 5-County Metro Home Ownership by Census Tract 2012
+664,221112,Colorado 5-County Metro Households Spending 30% or more on Housing by County 2010
+665,221113,Colorado 5-County Metro Households Spending 30% or more on Housing by County 2011
+666,221114,Colorado 5-County Metro Households Spending 30% or more on Housing by County 2012
+667,221115,Colorado 5-County Metro Households Spending 30% or more on Housing 2010
+668,221116,Colorado 5-County Metro Households Spending 30% or more on Housing 2011
+669,221117,Colorado 5-County Metro Households Spending 30% or more on Housing 2012
+670,221118,Colorado State's Households with Supplemental Security Income (SSI) 2010
+671,221119,Colorado 5-County Metro Households Spending 30% or more on Housing by Census Tract 2010
+672,221120,Colorado 5-County Metro Households Spending 30% or more on Housing by Census Tract 2011
+673,221121,Colorado 5-County Metro Households Spending 30% or more on Housing by Census Tract 2012
+674,221122,Colorado State's Households Spending 30% or more on Housing 2010
+675,221123,Colorado State's Households Spending 30% or more on Housing 2011
+676,221124,Colorado State's Households Spending 30% or more on Housing 2012
+677,221125,Colorado 5-County Metro Households with Supplemental Security Income (SSI) by County 2010
+678,221126,Colorado 5-County Metro Households with Supplemental Security Income (SSI) by County 2011
+679,221127,Colorado 5-County Metro Households with Supplemental Security Income (SSI) by County 2012
+680,221128,Colorado 5-County Metro Households with Supplemental Security Income (SSI) by Census Tract 2010
+681,221129,Colorado 5-County Metro Households with Supplemental Security Income (SSI) by Census Tract 2011
+682,221130,Colorado 5-County Metro Households with Supplemental Security Income (SSI) by Census Tract 2012
+683,221131,Colorado 5-County Metro Households with Supplemental Security Income (SSI) 2010
+684,221132,Colorado 5-County Metro Households with Supplemental Security Income (SSI) 2011
+685,221133,Colorado 5-County Metro Households with Supplemental Security Income (SSI) 2012
+686,221134,Colorado State's Households with Supplemental Security Income (SSI) 2011
+687,221135,Colorado State's Households with Supplemental Security Income (SSI) 2012
+688,221136,Colorado State's Households by Vehicle Availability 2010
+689,221137,Colorado 5-County Metro Households by Vehicle Availability by County 2010
+690,221138,Colorado 5-County Metro Households by Vehicle Availability by County 2011
+691,221139,Colorado 5-County Metro Households by Vehicle Availability by County 2012
+692,221140,Colorado 5-County Metro Households by Vehicle Availability by Census Tract 2010
+693,221141,Colorado 5-County Metro Households by Vehicle Availability by Census Tract 2011
+694,221142,Colorado 5-County Metro Households by Vehicle Availability by Census Tract 2012
+695,221143,Colorado 5-County Metro Households by Vehicle Availability 2010
+696,221144,Colorado 5-County Metro Households by Vehicle Availability 2011
+697,221145,Colorado 5-County Metro Households by Vehicle Availability 2012
+698,221146,Colorado State's Households by Vehicle Availability 2011
+699,221147,Colorado State's Households by Vehicle Availability 2012
+700,221148,Colorado 5-County Metro Registered Voters by County in June 2010
+701,221149,Colorado 5-County Metro Registered Voters by County in June 2011
+702,221150,Colorado 5-County Metro Registered Voters by County in June 2012
+703,221151,Colorado 5-County Metro Registered Voters by County in June 2013
+704,221152,Colorado 5-County Metro Registered Voters in June 2010
+705,221153,Colorado 5-County Metro Registered Voters in June 2011
+706,221154,Colorado 5-County Metro Registered Voters in June 2012
+707,221155,Colorado 5-County Metro Registered Voters in June 2013
+708,221156,Colorado State's Registered Voters in June 2010
+709,221157,Colorado State's Registered Voters in June 2011
+710,221158,Colorado State's Registered Voters in June 2012
+711,221159,Colorado State's Registered Voters in June 2013
+712,221160,Colorado 5-County Metro Percent of Seniors Completing Free Application for Federal Student Aid (FAFSA) by County 2011-2012
+713,221161,Colorado 5-County Metro Percent of Seniors Completing Free Application for Federal Student Aid (FAFSA) by County 2012-2013
+714,221162,Colorado 5-County Metro Percent of Seniors Completing Free Application for Federal Student Aid (FAFSA) by School District 2011-2012
+715,221163,Colorado 5-County Metro Percent of Seniors Completing Free Application for Federal Student Aid (FAFSA) by School District 2012-2013
+716,221164,Colorado 5-County Metro Percent of Seniors Completing Free Application for Federal Student Aid (FAFSA) 2011-2012
+717,221165,Colorado 5-County Metro Percent of Seniors Completing Free Application for Federal Student Aid (FAFSA) 2012-2013
+718,221166,Colorado 5-County Metro Percent of Enrolled Students Eligible for Pell Grant Program by County 2009
+719,221167,Colorado 5-County Metro Percent of Enrolled Students Eligible for Pell Grant Program by County 2010
+720,221168,Colorado 5-County Metro Percent of Enrolled Students Eligible for Pell Grant Program by County 2011
+721,221169,Colorado 5-County Metro Percent of Enrolled Students Eligible for Pell Grant Program by School District 2009
+722,221170,Colorado 5-County Metro College Student Retention Rate by County 2011
+723,221171,Colorado 5-County Metro Percent of Enrolled Students Eligible for Pell Grant Program by School District 2010
+724,221172,Colorado 5-County Metro Percent of Enrolled Students Eligible for Pell Grant Program by School District 2011
+725,221173,Colorado 5-County Metro Percent of Enrolled Students Eligible for Pell Grant Program 2009
+726,221174,Colorado 5-County Metro Percent of Enrolled Students Eligible for Pell Grant Program 2010
+727,221175,Colorado 5-County Metro Percent of Enrolled Students Eligible for Pell Grant Program 2011
+728,221176,Colorado 5-County Metro College Student Retention Rate by County 2009
+729,221177,Colorado 5-County Metro College Student Retention Rate by County 2010
+730,221178,Colorado 5-County Metro College Student Retention Rate by Gender by County 2009
+731,221179,Colorado 5-County Metro College Student Retention Rate by Gender by County 2010
+732,221180,Colorado 5-County Metro College Student Retention Rate by Gender by County 2011
+733,221181,Colorado 5-County Metro College Student Retention Rate by Race by County 2009
+734,221182,Colorado 5-County Metro College Student Retention Rate by Race by County 2010
+735,221183,Colorado 5-County Metro College Student Retention Rate by Race by County 2011
+736,221184,Colorado 5-County Metro College Student Retention Rate 2009
+737,221185,Colorado 5-County Metro College Student Retention Rate 2010
+738,221186,Colorado 5-County Metro College Student Retention Rate 2011
+739,221187,Colorado 5-County Metro College Student Retention Rate by School District 2009
+740,221188,Colorado 5-County Metro College Student Retention Rate by Gender 2011
+741,221189,Colorado 5-County Metro College Student Retention Rate by Gender 2010
+742,221190,Colorado 5-County Metro College Student Retention Rate by Gender 2009
+743,221191,Colorado 5-County Metro College Student Retention Rate by Race 2009
+744,221192,Colorado 5-County Metro College Student Retention Rate by Race 2010
+745,221193,Colorado 5-County Metro College Student Retention Rate by Race 2011
+746,221194,Colorado 5-County Metro College Student Retention Rate by School District 2010
+747,221195,Colorado 5-County Metro College Student Retention Rate by School District 2011
+748,221196,Colorado 5-County Metro College Student Retention Rate by Gender by School District 2009
+749,221197,Colorado 5-County Metro College Student Retention Rate by Gender by School District 2010
+750,221198,Colorado 5-County Metro College Student Retention Rate by Gender by School District 2011
+751,221199,Colorado 5-County Metro College Student Retention Rate by Race by School District 2009
+752,221200,Colorado 5-County Metro College Student Retention Rate by Race by School District 2010
+753,221201,Colorado 5-County Metro College Student Retention Rate by Race by School District 2011
+754,221202,Colorado 5-County Metro College Student Needing Remediation by County 2009
+755,221203,Colorado 5-County Metro College Student Needing Remediation by Race by County 2009
+756,221204,Colorado 5-County Metro College Student Needing Remediation by Race by County 2010
+757,221205,Colorado 5-County Metro College Student Needing Remediation by County 2010
+758,221206,Colorado 5-County Metro College Student Needing Remediation by County 2011
+759,221207,Colorado 5-County Metro College Student Needing Remediation by Gender by County 2009
+760,221208,Colorado 5-County Metro College Student Needing Remediation by Gender by County 2010
+761,221209,Colorado 5-County Metro College Student Needing Remediation by Gender by County 2011
+762,221210,Colorado 5-County Metro College Student Needing Remediation by Race by County 2011
+763,221211,Colorado 5-County Metro College Student Needing Remediation by School District 2009
+764,221212,Colorado 5-County Metro College Student Needing Remediation by School District 2010
+765,221213,Colorado 5-County Metro College Student Needing Remediation by School District 2011
+766,221214,Colorado 5-County Metro College Student Needing Remediation 2009
+767,221215,Colorado 5-County Metro College Student Needing Remediation 2010
+768,221216,Colorado 5-County Metro College Student Needing Remediation 2011
+769,221217,Colorado 5-County Metro College Student Needing Remediation by Gender 2009
+770,221218,Colorado 5-County Metro College Student Needing Remediation by Gender 2010
+771,221219,Colorado 5-County Metro College Student Needing Remediation by Gender 2011
+772,221220,Colorado 5-County Metro General Educational Development (GED) Completion Rate by County 2012
+773,221221,Colorado 5-County Metro General Educational Development (GED) Completion Rate by Gender by County 2012
+774,221222,Colorado 5-County Metro General Educational Development (GED) Completion Rate by Race by County 2012
+775,221223,Colorado 5-County Metro General Educational Development (GED) Completion Rate of English Language Learners (ELL) by County 2012
+776,221224,Colorado 5-County Metro General Educational Development (GED) Completion Rate of Students Eligible for Free and Reduced Lunch by County 2012
+777,221225,Colorado 5-County Metro General Educational Development (GED) Completion Rate by School District 2012
+778,221226,Colorado 5-County Metro General Educational Development (GED) Completion Rate by Gender by School District 2012
+779,221227,Colorado 5-County Metro General Educational Development (GED) Completion Rate by Gender 2012
+780,221228,Colorado 5-County Metro General Educational Development (GED) Completion Rate by Race by School District 2012
+781,221229,Colorado 5-County Metro General Educational Development (GED) Completion Rate by Race 2012
+782,221230,Colorado 5-County Metro General Educational Development (GED) Completion Rate of English Language Learners (ELL) by School District 2012
+783,221231,Colorado 5-County Metro General Educational Development (GED) Completion Rate of English Language Learners (ELL) 2012
+784,221232,Colorado 5-County Metro General Educational Development (GED) Completion Rate of Students Eligible for Free and Reduced Lunch by School District 2012
+785,221233,Colorado 5-County Metro General Educational Development (GED) Completion Rate of Students Eligible for Free and Reduced Lunch 2012
+786,221234,Colorado 5-County Metro College Enrollment by Gender by County 2012
+787,221432,2000 Census Colorado State's Hispanic and Not Hispanic Population by Race
+788,221433,2010 Census Colorado State's Hispanic and Not Hispanic Population by Race
+789,221434,2010 Census Colorado Hispanic and Not Hispanic Population by Race by Census Tract
+790,221435,2010 Census Colorado Hispanic and Not Hispanic Population by Race by Census Block Group
+791,221436,2000 Census Colorado Hispanic and Not Hispanic Population by Race by County
+792,221437,2010 Census Colorado Hispanic and Not Hispanic Population by Race by County
+793,221438,2010 Census Colorado Hispanic and Not Hispanic Population by Race by Census Block
+794,221439,2000 Census Colorado Hispanic and Not Hispanic Population by Race by Census Tract
+795,221440,2000 Census Colorado Hispanic and Not Hispanic Population by Race by Census Block Group
+796,221441,2000 Census Colorado Hispanic and Not Hispanic Population by Race by Census Block
+797,221466,Colorado State's percent of adults diagnosed with high blood pressure 2007-2009
+798,221467,Colorado State's percent of live births to mothers who were overweight or obese based on BMI before pregnancy 2009-2011
+799,221468,Colorado State's percent of children with recommended immunizations 2010-2011
+800,221469,Colorado 5-County Metro Average Number of Days in the Past 30 Days when Mental Health was not Good by County 2008-2010
+801,221470,Colorado State's Average Number of Days in the Past 30 Days when Mental Health was not Good 2008-2010
+802,221471,Colorado State's percent of seniors whose physical health was not good for 8 or more days during the past 30 days 2011-2012
+803,221472,Colorado State's percent of children with recommended immunizations 2011-2012
+804,221473,Colorado State's percent of children with recommended immunizations 2012-2013
+805,221474,Colorado 5-County Metro percent of adults who are obese by County 2008-2010
+806,221475,Colorado State's percent of adults who are obese 2008-2010
+807,221476,Colorado State's percent of children aged 5-14 years who were physically active 2009-2010
+808,221477,Colorado 5-County Metro percent of adults aged 65+ years who participate in leisure time exercise during the past 30 days by County 2009-2010
+809,221478,Colorado 5-County Metro percent of adults aged 65+ years who participate in leisure time exercise during the past 30 days by County 2011-2012
+810,221479,Colorado State's percent of adults aged 65+ years who participate in leisure time exercise during the past 30 days 2009-2010
+811,221480,Colorado 5-County Metro percent of seniors whose mental health was not good for 8 or more days during the past 30 days by County 2009-2010
+812,221481,Colorado 5-County Metro Percent of Newborns Who Were Screened for Hearing Impairment by County 2011
+813,221482,Colorado 5-County Metro percent of seniors whose mental health was not good for 8 or more days during the past 30 days by County 2011-2012
+814,221483,Colorado State's Percent of Adults Who Are Physically Active 2007-2009
+815,221484,Colorado State's percent of seniors whose physical health was not good for 8 or more days during the past 30 days 2009-2010
+816,221485,Colorado State's Percent of Adults Binge Drinking in Past 30 Days 2008-2010
+817,221486,Colorado 5-County Metro number of children (less than 19 years old) without health insurance coverage by County 2010
+818,221487,Colorado 5-County Metro percent of adult who have once or more driven when having too much to drink by County 2010
+819,221488,Colorado State's number of children (less than 19 years old) without health insurance coverage 2010
+820,221489,Colorado State's percent of children aged 1-14 years who ate fruit 2 or more times per day and vegetables 3 or more times per day 2008-2010
+821,221490,Colorado 5-County Metro percent of adults who visited the dentist within the past 12 months by County 2008-2010
+822,221491,Colorado State's percent of adults who visited the dentist for any reason within the past 12 months 2008-2010
+823,221492,Colorado State's percent of high school students who ate fruits and vegetables 5 or more times per day 2011
+824,221493,Colorado State's percent of sexually active high school students using an effective method of birth control to prevent pregnancy 2011
+825,221494,Colorado State's percent of adults aged 18-64 years with heal care coverage 2011-2012
+826,221495,"Colorado State's percent of children who receive developmental/social emotional screening (EPSDT, ASQ, PEDS, or other) 2010"
+827,221496,"Colorado State's percent of children who receive developmental/social emotional screening (EPSDT, ASQ, PEDS, or other) 2011"
+828,221497,"Colorado State's percent of children who receive developmental/social emotional screening (EPSDT, ASQ, PEDS, or other) 2012"
+829,221498,Colorado 5-County Metro percent of children aged 2-14 years who are overweight or obese by County 2008-2010
+830,221499,Colorado State's percent of children aged 2-14 years who are overweight or obese 2008-2010
+831,221500,Colorado 5-County Metro percent of children aged 5-14 years wh owere physically active by County 2009-2010
+832,221501,Colorado State's percent of adults aged 65+ years who participate in leisure time exercise during the past 30 days 2011-2012
+833,221502,Colorado 5-County Metro percent of adults aged 65+ years having had a flu shot in the past 12 months by County 2008-2010
+834,221503,Colorado State's percent of adults aged 65+ years who report having had a flu shot in the past 12 months 2008-2010
+835,221504,Colorado 5-County Metro Age-adjusted Rate of Mental Health Diagnosed Hospitalizations by County 2009-2011
+836,221505,Colorado 5-County Metro percent of adults aged 65+ years who report having ever had a pneumonia shot by County 2008-2010
+837,221506,Colorado State's Age-adjusted Rate of Mental Health Diagnosed Hospitalizations 2009-2011
+838,221507,Colorado State's percent of adults aged 65+ years who report having ever had a pneumonia shot 2008-2010
+839,221508,Colorado 5-County Metro Percent of Newborns Who Were Screened for Hearing Impairment by County 2010
+840,221509,Colorado State's Percent of Newborns Who Were Screened for Hearing Impairment 2010
+841,221510,Colorado State's percent of seniors whose mental health was not good for 8 or more days during the past 30 days 2009-2010
+842,221511,Colorado State's Percent of Newborns Who Were Screened for Hearing Impairment 2011
+843,221512,Colorado State's percent of seniors whose mental health was not good for 8 or more days during the past 30 days 2011-2012
+844,221513,Colorado 5-County Metro Percent of Adults Who Are Physically Active by County 2007-2009
+845,221514,Colorado 5-County Metro percent of seniors whose physical health was not good for 8 or more days during the past 30 days by County 2009-2010
+846,221515,Colorado 5-County Metro percent of seniors whose physical health was not good for 8 or more days during the past 30 days by County 2011-2012
+847,221516,Colorado 5-County Metro Percent of Adults Binge Drinking in Past 30 Days by County 2008-2010
+848,221517,Colorado 5-County Metro percent of adult who have once or more driven when having too much to drink by County 2012
+849,221518,Colorado State's percent of adult who have once or more driven when having too much to drink 2010
+850,221519,Colorado State's percent of high school students who reported attempted suicide 2011
+851,221520,Colorado State's percent of adult who have once or more driven when having too much to drink 2012
+852,221521,Colorado 5-County Metro percent of adult who exceed guidelines for low-risk drinking in the past month by County 2009-2010
+853,221522,Colorado 5-County Metro percent of adult who exceed guidelines for low-risk drinking in the past month by County 2011-2012
+854,221523,Colorado State's percent of adult who exceed guidelines for low-risk drinking in the past month 2009-2010
+855,221524,Colorado State's percent of adult who exceed guidelines for low-risk drinking in the past month 2011-2012
+856,221525,Colorado 5-County Metro percent of adults consuming fruits less than once per day by County 2011
+857,221526,Colorado State's percent of adults consuming fruits less than once per day 2011
+858,221527,Colorado 5-County Metro percent of adults consuming vegetables less than once per day by County 2011
+859,221528,Colorado State's percent of adults consuming vegetables less than once per day 2011
+860,221529,Colorado 5-County Metro percent of adults having one or more regular health care providers by County 2008-2010
+861,221530,Colorado State's percent of adults having one or more regular health care providers 2008-2010
+862,221531,Colorado 5-County Metro percent of adults who currently smoke cigarettes by County 2008-2010
+863,221532,Colorado State's percent of adults who currently smoke cigarettes 2008-2010Colorado State's percent of adults who currently smoke cigarettes 2008-2010
+864,221533,Colorado 5-County Metro percent of children aged 1-14 years who ate fruit 2 or more times per day and vegetables 3 or more times per day by County 2008-2010
+865,221534,Colorado State's percent of high school students who reported smoking 2011
+866,221535,Colorado 5-County Metro percent of adults with diabetes by County 2008-2010
+867,221536,Colorado State's percent of adults with diabetes 2008-2010
+868,221537,Colorado State's percent of high school students who reported a depressive episode in the past year 2011
+869,221538,Colorado 5-County Metro percent of adults aged 18-64 years with heal care coverage by County 2011-2012
+870,221539,"Colorado State's percent of children who receive developmental/social emotional screening (EPSDT, ASQ, PEDS, or other) 2013"
+871,221540,Colorado 5-County Metro percent of adults diagnosed with high blood pressure by County 2007-2009
+872,221541,Colorado State's percent of high school students who reported substance abuse 2011
+873,221542,Colorado 5-County Metro percent of live births to mothers who were overweight or obese based on BMI before pregnancy by County 2009-2011
+874,221811,Colorado 5-County Metro K-12 Student by Race and Ethnicity 2014
+875,221812,Colorado 5-County Metro Number of Homeless Shelter Spots 2014
+876,221813,Colorado 5-County Metro Percent of 9th-12th grade students scoring proficiently on the ACCESS test by County 2013
+877,221814,Colorado 5-County Metro Percent of 9th-12th grade students scoring proficiently on the ACCESS test by School District 2013
+878,221815,Colorado 5-County Metro Percent of 9th-12th grade students scoring proficiently on the ACCESS test by County 2014
+879,221816,Colorado 5-County Metro Percent of 9th-12th grade students scoring proficiently on the ACCESS test 2013
+880,221817,Colorado 5-County Metro Percent of 9th-12th grade students scoring proficiently on the ACCESS test by School District 2014
+881,221818,Colorado State's Percent of 9th-12th grade students scoring proficiently on the ACCESS test 2014
+882,221819,Colorado 5-County Metro Percent of high school students within a district who are enrolled in CTE courses by School District 2011-2012
+883,221820,Colorado Percent of students in a district with a behavioral referral by School District 2013-2014
+884,221821,Colorado 5-County Metro Percent of 9th-12th grade students scoring proficiently on the ACCESS test 2014
+885,221822,Colorado State's Number of Foreclosures 2013
+886,221823,Colorado 5-County Metro Early Childhood Education Spots compared to need by County 2013
+887,221824,Colorado 5-County Metro Early Childhood Education Spots compared to need 2013
+888,221825,Colorado State's Early Childhood Education Spots compared to need 2013
+889,221826,Colorado 5-County Metro Truancy Rate by School District 2011
+890,221827,Colorado 5-County Metro Number of Foreclosures 2011 by County
+891,221828,Colorado 5-County Metro Number of Foreclosures 2013 by County
+892,221829,Colorado 5-County Metro Number of Foreclosures 2012 by County
+893,221830,Colorado 5-County Metro Number of Foreclosures 2012
+894,221831,Colorado 5-County Metro Number of Foreclosures 2011
+895,221832,Colorado State's Number of Foreclosures 2011
+896,221833,Colorado State's Number of Foreclosures 2010
+897,221834,Colorado 5-County Metro Truancy Rate 2011
+898,221835,Colorado State's Number of Foreclosures 2012
+899,221836,Colorado 5-County Metro Number of Homeless Individuals 2011 by County
+900,221837,Colorado 5-County Metro Percent of high school students within a district who are enrolled in CTE courses by County 2011-2012
+901,221838,Colorado State's Percent of students in a district with a behavioral referral 2013-2014
+902,221839,Colorado 5-County Metro Percent of students in a district with a behavioral referral 2013-2014
+903,221840,Colorado 5-County Metro Number of Homeless Individuals 2012 by County
+904,221841,Colorado 5-County Metro 2008-2012 ACS 5-Year Percent of Population who is 18 years or older who has a Bachelors Degree or Higher by Census Tract
+905,221842,Colorado 5-County Metro 2008-2012 ACS 5-Year Percent of Population who is 18 years or older who has a Bachelors Degree or Higher by Gender by County
+906,221843,Colorado 5-County Metro 2008-2012 ACS 5-Year Percent of Population who is 18 years or older who has a Bachelors Degree or Higher by County
+907,221845,Colorado 5-County Metro 2008-2012 ACS 5-Year Percent of Population who is 18 years or older who has a High School Diploma or Higher by Census Tract
+908,221846,Colorado 5-County Metro 2008-2012 ACS 5-Year Percent of Population who is 18 years or older who has a High School Diploma or Higher by County
+909,221847,Colorado 5-County Metro Number of Homeless Shelter Spots 2014 by County
+910,221848,Colorado 5-County Metro Number of Homeless Individuals 2013 by County
+911,221849,Colorado 5-County Metro Number of Foreclosures 2010
+912,221850,Colorado 5-County Metro Number of Foreclosures 2010 by County
+913,221851,Colorado 5-County Metro Percent of high school students within a district who are enrolled in CTE courses 2011-2012
+914,221852,Colorado State's Percent of 9th-12th grade students scoring proficiently on the ACCESS test 2013
+915,221853,Colorado 5-County Metro 2008-2012 ACS 5-Year Percent of Population who is 18 years or older who has a Bachelors Degree or Higher by Gender
+916,221854,Colorado 5-County Metro 2008-2012 ACS 5-Year Percent of Population who is 18 years or older who has a Bachelors Degree or Higher
+917,221855,Colorado 5-County Metro 2008-2012 ACS 5-Year Percent of Population who is 18 years or older who has a Bachelors Degree or Higher by Gender by Census Tract
+918,221870,Colorado 5-County Metro Percent of Seniors Completing Free Application for Federal Student Aid (FAFSA) by School District 2011-2012
+919,222048,2009-2013 ACS 5-Year Colorado Median Household Income by Census Block Group
+920,222049,2009-2013 ACS 5-Year Colorado Total Population by Census Tract
+921,222050,2009-2013 ACS 5-Year Colorado Median Year Built of Housing Units by Census Block Group
+922,222052,2009-2013 ACS 5-Year Colorado Gross Rent As A Percentage Of Household Income In The Past 12 Months by Census Block Group
+923,222053,2009-2013 ACS 5-Year Colorado Number of Housing Units by Year Built by Census Block Group
+924,222054,2009-2013 ACS 5-Year Colorado Population by Sex and Age by Census Tract
+925,222055,2009-2013 ACS 5-Year Colorado Population by Hispanic Origin and Race by Census Tract
+926,222056,2009-2013 ACS 5-Year Colorado Household Income by Census Block Group
+927,222058,2009-2013 ACS 5-Year Colorado Household Income by Census Tract
+928,222059,2009-2013 ACS 5-Year Colorado Median Household Income by Census Tract
+929,222060,2009-2013 ACS 5-Year Colorado Household Income by County
+930,222061,2009-2013 ACS 5-Year Colorado Total Population by County
+931,222062,2009-2013 ACS 5-Year Colorado Population by Hispanic Origin and Race by County
+932,222063,2009-2013 ACS 5-Year Colorado Population by Sex and Age by County
+933,222064,2009-2013 ACS 5-Year Colorado Median Household Income by County
+934,222076,2013 Colorado School Performance Framework
+935,222077,2013 Colorado School PK-12 Enrollment by Free and Reduced Lunch Eligibility
+936,222078,2009-2013 ACS 5-Year Colorado Household Size by Tenure by County
+937,222079,2009-2013 ACS 5-Year Colorado Household Size by Tenure by Census Tract
+938,222080,2009-2013 ACS 5-Year Colorado Educational Attainment For The Population 25 Years And Over by Sex by Census Block Group
+939,222081,2009-2013 ACS 5-Year Colorado Means of Transportation to Work of Workers 16 Years Old and Over by Block Group
+940,222082,2009-2013 ACS 5-Year Colorado Means of Transportation to Work of Workers 16 Years Old and Over by Census Tract
+941,222084,2009-2013 ACS 5-Year Colorado Means of Transportation to Work of Workers 16 Years Old and Over by County
+942,222085,Access to Healthy Food in Colorado by Census Tract 2013
+943,222086,Adult Obesity Rate by County in Metro Denver Region in 2011
+944,222087,Adult Asthma Rate by County in Metro Denver Region in 2011
+945,222088,2010 Metro Denver Federally Subsidized Affordable Housing
+946,222089,2014 Metro Denver Federally Subsidized Affordable Housing
+947,222090,Adult Obesity Rate by Race by County in Metro Denver Region in 2011
+948,222091,Adult Obesity Rate by Income by County in Metro Denver Region in 2011
+949,222092,Adult Asthma Rate by Race by County in Metro Denver Region in 2011
+950,222093,Adult Asthma Rate by Income by County in Metro Denver Region in 2011
+951,222094,2013 Colorado Number of Jobs by NAICS code by Census Block
+952,222097,2010-2014 ACS 5-Year Colorado Educational Attainment For The Population 25 Years And Over by Sex by Census Block Group
+953,222098,2010-2014 ACS 5-Year Colorado Household Income by Census Block Group
+954,222099,2010-2014ACS 5-Year Colorado Gross Rent As A Percentage Of Household Income In The Past 12 Months by Census Block Group
+955,222101,2010-2014 ACS 5-Year Colorado Median Household Income by Census Block Group
+956,222102,2010-2014 ACS 5-Year Colorado Means of Transportation to Work of Workers 16 Years Old and Over by Block Group
+957,222103,2010-2014 ACS 5-Year Colorado Household Size by Tenure by County
+958,222104,2010-2014 ACS 5-Year Colorado Household Income by County
+959,222105,2010-2014 ACS 5-Year Colorado Population by Sex and Age by County
+960,222106,2010-2014 ACS 5-Year Colorado Population by Hispanic Origin and Race by County
+961,222107,2010-2014 ACS 5-Year Colorado Means of Transportation to Work of Workers 16 Years Old and Over by County
+962,222108,2010-2014 ACS 5-Year Colorado Household Size by Tenure by Census Tract
+963,222109,2010-2014 ACS 5-Year Colorado Population by Sex and Age by Census Tract
+964,222110,2010-2014 ACS 5-Year Colorado Population by Hispanic Origin and Race by Census Tract
+965,222111,2010-2014 ACS 5-Year Colorado Means of Transportation to Work of Workers 16 Years Old and Over by Census Tract
+966,222112,2010-2014 ACS 5-Year Colorado Household Income by Census Tract
+967,222113,2010-2014 ACS 5-Year Colorado Median Year Built of Housing Units by Census Block Group
+968,222114,Adult Obesity Rate by County in Metro Denver Region in 2013
+969,222115,Adult Asthma Rate by County in Metro Denver Region in 2013
+970,222116,Adult Obesity Rate by Race by County in Metro Denver Region in 2013
+971,222117,Adult Obesity Rate by Income by County in Metro Denver Region in 2013
+972,222118,Adult Asthma Rate by Race by County in Metro Denver Region in 2013
+973,222119,Adult Asthma Rate by Income by County in Metro Denver Region in 2013
+974,222120,2014 Colorado Number of Jobs by Educational Attainment by Census Block
+975,222121,2014 Colorado Number of Jobs by monthly earnings by Census Block
+976,222122,2014 Colorado Number of Jobs by NAICS code by Census Block
